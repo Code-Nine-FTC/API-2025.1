@@ -1,0 +1,6 @@
+[submodule "API-2025.1-Backend"]
+	path = API-2025.1-Backend
+	url = https://github.com/Code-Nine-FTC/API-2025.1-Backend
+[submodule "API-2025.1-Frontend"]
+	path = API-2025.1-Frontend
+	url = https://github.com/Code-Nine-FTC/API-2025.1-Frontend
