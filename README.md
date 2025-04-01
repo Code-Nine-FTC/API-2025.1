@@ -40,8 +40,6 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
   <a href="https://mui.com/material-ui"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=00046D">
 <br>
 
-<h2>Mapeamento de Rotas</h2>
-
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
 <h2> Primeira Sprint </h2>
@@ -101,7 +99,7 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 | 7 | Alta  | Como ADMINISTRADOR, quero um mecanismo de criação automática de alertas com base em condições meteorológicas predefinidas, para garantir respostas rápidas e automatizadas a eventos climáticos críticos. | 3 | RF05 | 2 |
 | 8 | Média | Como CLIENTE, quero uma documentação detalhada sobre as rotas da API, incluindo exemplos de uso, para facilitar a integração e o desenvolvimento de aplicações baseadas nos dados fornecidos pelo sistema. | 1 | RNF03 | 2 |
 | 9 | Alta | Como ADMINISTRADOR, quero visualizar as informações das estações meteorológicas por meio de dashboards interativos, para facilitar a análise e tomada de decisão baseada em dados. | 5 | RF04 | 2 |
-| 10 | Média | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 5 | RF06 | 3 |
+| 10 | Alta | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 5 | RF06 | 3 |
 | 11 | Alta | Como ADMINISTRADOR, quero implementar um sistema de relatórios para obtenção dos dados recebidos das estações meteorológicas, para possibilitar análises estatísticas dos dados coletatos. | 5 | RF06 | 3 |
 | 12 | Alta | Como ADMINISTRADOR, quero realizar a construção física de uma estação meteorológica para a utilização de dados reais, para implementar no site mantendo as informações coesas e precisas | 8 | RF07 | 3 |
 | 13 | Média | Como CLIENTE, quero uma interface e conteúdos que incentivem o interesse de alunos do ensino médio, aplicando conceitos meteorológicos em um contexto de aprendizado baseado em problemas, para fomentar a educação científica. | 8 | RNF02 | 3 |
