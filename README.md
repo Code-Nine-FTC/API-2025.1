@@ -98,11 +98,13 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 | 4 | Alta  | Como USUÁRIO VISUALIZADOR, quero uma aba educativa no site, para fornecer informações sobre os impactos das condições climáticas e aumentar a conscientização sobre os riscos associados. | 3 | RF08 | 1 |
 | 5 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar o usuário do sistema, para gerenciar permissões e garantir a segurança e controle de acessos. | 3 | RF02 | 1 |
 | 6 | Alta  | Como ADMINISTRADOR, quero receber e armazenar automaticamente os dados das estações meteorológicas, para possibilitar o monitoramento contínuo e a análise das condições climáticas em tempo real. | 3 | RF03 | 2 |
-| 7 | Alta  | Como ADMINISTRADOR, quero um mecanismo de criação automática de alertas com base em condições meteorológicas predefinidas, para garantir respostas rápidas e automatizadas a eventos climáticos críticos. | 4 | RF05 | 2 |
-| 8 | Média | Como CLIENTE, quero uma documentação detalhada sobre as rotas da API, incluindo exemplos de uso, para facilitar a integração e o desenvolvimento de aplicações baseadas nos dados fornecidos pelo sistema. | 5 | RNF03 | 2 |
-| 9 | Média | Como ADMINISTRADOR, quero visualizar as informações das estações meteorológicas por meio de dashboards interativos, para facilitar a análise e tomada de decisão baseada em dados. | 8 | RF04 | 3 |
-| 10 | Média | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 8 | RF06 | 3 |
-| 11 | Média | Como CLIENTE, quero uma interface e conteúdos que incentivem o interesse de alunos do ensino médio, aplicando conceitos meteorológicos em um contexto de aprendizado baseado em problemas, para fomentar a educação científica. | 8 | RNF02 | 3 |
+| 7 | Alta  | Como ADMINISTRADOR, quero um mecanismo de criação automática de alertas com base em condições meteorológicas predefinidas, para garantir respostas rápidas e automatizadas a eventos climáticos críticos. | 3 | RF05 | 2 |
+| 8 | Média | Como CLIENTE, quero uma documentação detalhada sobre as rotas da API, incluindo exemplos de uso, para facilitar a integração e o desenvolvimento de aplicações baseadas nos dados fornecidos pelo sistema. | 1 | RNF03 | 2 |
+| 9 | Alta | Como ADMINISTRADOR, quero visualizar as informações das estações meteorológicas por meio de dashboards interativos, para facilitar a análise e tomada de decisão baseada em dados. | 5 | RF04 | 2 |
+| 10 | Média | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 5 | RF06 | 3 |
+| 11 | Alta | Como ADMINISTRADOR, quero implementar um sistema de relatórios para obtenção dos dados recebidos das estações meteorológicas, para possibilitar análises estatísticas dos dados coletatos. | 5 | RF06 | 3 |
+| 12 | Alta | Como ADMINISTRADOR, quero realizar a construção física de uma estação meteorológica para a utilização de dados reais, para implementar no site mantendo as informações coesas e precisas | 8 | RF07 | 3 |
+| 13 | Média | Como CLIENTE, quero uma interface e conteúdos que incentivem o interesse de alunos do ensino médio, aplicando conceitos meteorológicos em um contexto de aprendizado baseado em problemas, para fomentar a educação científica. | 8 | RNF02 | 3 |
 
 <br>
 
