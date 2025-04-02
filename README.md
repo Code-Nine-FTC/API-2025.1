@@ -50,6 +50,11 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 
 <h3> CRUD Alerta, Estação, Tipos de Alerta, Pârametros e Tipos de Parâmetros </h3>
 
+https://github.com/user-attachments/assets/9ce306df-4ba0-4e2e-a0a2-75010089b54c
+
+https://github.com/user-attachments/assets/cc5f1b6d-6e22-4db6-9507-cfb0d35b6cd0
+
+
 <h4>  </h4>
 
 <h3> Segunda Sprint </h3>
