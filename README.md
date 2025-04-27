@@ -54,12 +54,9 @@ https://github.com/user-attachments/assets/9ce306df-4ba0-4e2e-a0a2-75010089b54c
 
 https://github.com/user-attachments/assets/cc5f1b6d-6e22-4db6-9507-cfb0d35b6cd0
 
-
-<h4>  </h4>
-
 <h3> Segunda Sprint </h3>
 
-<h4> </h4>
+https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 
 <h3> Terceira Sprint </h3>
 
