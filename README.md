@@ -71,14 +71,13 @@ https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 
 | Id | Requisitos Funcionais |
 | --- | --- |
-| RF01 | Modelo de Dados Dinâmico**: Capacidade de receber e registrar estações meteorológicas equipadas com diversos tipos de sensores. |
-| RF02 | CRUD para Estações, Parâmetros, Alertas e Usuários**: Funcionalidades completas de criação, leitura, atualização e exclusão. |
-| RF03 | Recepção de Dados**: Processamento e armazenamento dos dados enviados pelas estações meteorológicas. |
-| RF04 | Dashboards**: Visualização interativa dos parâmetros meteorológicos. |
-| RF05 | Geração de Alertas**: Criação automática de notificações baseadas em condições meteorológicas específicas. |
-| RF06 | Desenvolvimento de Datalogger**: Implementação de um datalogger para registrar dados em uma estação meteorológica. |
-| RF07 | Montagem de Estação Meteorológica**: Construção física de uma estação meteorológica com os componentes necessários. |
-| RF08 | Tutorial Educativo**: Desenvolvimento de um guia explicativo sobre o significado de cada parâmetro meteorológico medido. |
+| RF01 | O sistema deve possibilitar o gerenciamento de estações metereológicas de variados tipos, por meio de cadastro, visualização, edição e exclusão. Adaptando-se aos possíveis sensores e suas métricas relacionadas.  |
+| RF02 | O sistema deve possibilitar o gerenciamento de parâmetros metereológicos, por meio de cadastro, visualização, edição e exclusão. Definindo seus dados e possibilitando a vinculação com uma estação.  |
+| RF03 | O sistema deve possibilitar o gerenciamento de alertas, por meio de cadastro, visualização, edição e exclusão. Inserindo valores-limite relativos a cada tipo de parâmetro e o grau de perigo de cada alerta.  |
+| RF04 | O sistema deve possibilitar o gerenciamento de usuários, por meio de cadastro, visualização, edição e exclusão. |
+| RF05 | O sistema deve receber dados de estações metereológicas, armazená-los e posteriormente realizar o processamento e sincronização entre os bancos de dados. |
+| RF06 | O sistema deve conter uma seção de análise de dados (Dashboard), contendo estatísticas sobre as métricas realizadas em cada estação, quantidade de alertas, dentre outros dados relevantes. |
+| RF07 | A cada métrica adicionada ao banco de dados seus valores devem ser comparados por meio do parâmetro correspondente, verificando se essa aferição representa um alerta de risco e criando uma notificação com detalhes mais especificos sobre o tipo e nível de perigo do alerta. |
 
 | Id | Requisitos não Funcionais |
 | --- | --- |
