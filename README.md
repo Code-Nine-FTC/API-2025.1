@@ -40,9 +40,12 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
   <a href="https://mui.com/material-ui"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=00046D">
 <br>
 
+<h3> 📑 Documentação <h3>
+
+[Acesse a documentação!](https://github.com/Code-Nine-FTC/API-2025.1/wiki)
+
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
-docs/documentation.pdf
 
 <h2> Primeira Sprint </h2>
 
@@ -63,10 +66,6 @@ https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 <h3> Terceira Sprint </h3>
 
 <h4>  </h4>
-
-<h3> 📑 Documentação <h3>
-
-[Acesse a documentação!](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/documentation.pdf)
 
 <h2>📖 Requisitos do Cliente</h2> <a name="requisitoscliente"></a>
 
