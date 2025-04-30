@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 | RNF01 | As interfaces do sistema devem seguir as melhores práticas de UX (Experiência do usuário), tornando melhor a visualização de conteúdo e a retenção de usuários.  |
 | RNF02 | O sistema deve trazer temas educativos de maneira intuitiva e atrativa para alunos do ensino médio, utilizando o aprendizado baseado em problemas e de maneira prática. |
 | RNF03 | A documentação do produto deve conter informações sobre todas as rotas presentes no serviço, incluindo exemplos de uso e informações adicionais que podem ser pertinentes. |
-| RNF04 | O ambiente de desenvolvimento deve conter uma pipeline voltada para IC (Integração contínua) que possuí a execução de testes e validação de código. |
+| RNF04 | O ambiente de desenvolvimento deve conter uma pipeline voltada para IC (Integração contínua) que possui a execução de testes e validação de código. |
 | RNF05 | O sistema deve conter a configuração de processos automatizados de deploy, permitindo que as atualizações do sistema sejam entregues para o ambiente final após serem verificadas e aprovadas. |
 
 
@@ -95,18 +95,18 @@ https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 
 | Id | Prioridade | Tarefas | Estimativa | Requisito do Cliente | Sprint |
 | --- | --- | --- | --- | --- |  --- |
-| 1 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar e excluir estações meteorológicas, para garantir a gestão eficiente e atualizada da infraestrutura de monitoramento climático. | 5 | RF02 | 1 |
-| 2 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, e excluir alertas meteorológicos, para garantir uma gestão eficiente das notificações de risco e a comunicação adequada com os usuários. | 3 | RF02 | 1 | 
+| 1 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar e excluir estações meteorológicas, para garantir a gestão eficiente e atualizada da infraestrutura de monitoramento climático. | 5 | RF01 | 1 |
+| 2 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, e excluir alertas meteorológicos, para garantir uma gestão eficiente das notificações de risco e a comunicação adequada com os usuários. | 3 | RF03 | 1 | 
 | 3 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar e excluir parâmetros meteorológicos utilizados na criação de alertas, para manter os critérios de alerta sempre atualizados e alinhados com as necessidades do sistema. | 3 | RF02 | 1 |
-| 4 | Alta  | Como USUÁRIO VISUALIZADOR, quero uma aba educativa no site, para fornecer informações sobre os impactos das condições climáticas e aumentar a conscientização sobre os riscos associados. | 3 | RF08 | 1 |
-| 5 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar o usuário do sistema, para gerenciar permissões e garantir a segurança e controle de acessos. | 3 | RF02 | 1 |
-| 6 | Alta  | Como ADMINISTRADOR, quero receber e armazenar automaticamente os dados das estações meteorológicas, para possibilitar o monitoramento contínuo e a análise das condições climáticas em tempo real. | 3 | RF03 | 2 |
-| 7 | Alta  | Como ADMINISTRADOR, quero um mecanismo de criação automática de alertas com base em condições meteorológicas predefinidas, para garantir respostas rápidas e automatizadas a eventos climáticos críticos. | 3 | RF05 | 2 |
+| 4 | Alta  | Como USUÁRIO VISUALIZADOR, quero uma aba educativa no site, para fornecer informações sobre os impactos das condições climáticas e aumentar a conscientização sobre os riscos associados. | 3 | RF10 | 1 |
+| 5 | Alta  | Como ADMINISTRADOR, quero cadastrar, visualizar, editar o usuário do sistema, para gerenciar permissões e garantir a segurança e controle de acessos. | 3 | RF04 | 1 |
+| 6 | Alta  | Como ADMINISTRADOR, quero receber e armazenar automaticamente os dados das estações meteorológicas, para possibilitar o monitoramento contínuo e a análise das condições climáticas em tempo real. | 3 | RF05 | 2 |
+| 7 | Alta  | Como ADMINISTRADOR, quero um mecanismo de criação automática de alertas com base em condições meteorológicas predefinidas, para garantir respostas rápidas e automatizadas a eventos climáticos críticos. | 3 | RF07 | 2 |
 | 8 | Média | Como CLIENTE, quero uma documentação detalhada sobre as rotas da API, incluindo exemplos de uso, para facilitar a integração e o desenvolvimento de aplicações baseadas nos dados fornecidos pelo sistema. | 1 | RNF03 | 2 |
-| 9 | Alta | Como ADMINISTRADOR, quero visualizar as informações das estações meteorológicas por meio de dashboards interativos, para facilitar a análise e tomada de decisão baseada em dados. | 5 | RF04 | 2 |
-| 10 | Alta | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 5 | RF06 | 3 |
+| 9 | Alta | Como ADMINISTRADOR, quero visualizar as informações das estações meteorológicas por meio de dashboards interativos, para facilitar a análise e tomada de decisão baseada em dados. | 5 | RF06 | 2 |
+| 10 | Alta | Como ADMINISTRADOR, quero implementar um datalogger para registrar e armazenar os dados recebidos das estações meteorológicas, para possibilitar auditoria, análise histórica e previsões mais precisas. | 5 | RF08 | 3 |
 | 11 | Alta | Como ADMINISTRADOR, quero implementar um sistema de relatórios para obtenção dos dados recebidos das estações meteorológicas, para possibilitar análises estatísticas dos dados coletatos. | 5 | RF06 | 3 |
-| 12 | Alta | Como ADMINISTRADOR, quero realizar a construção física de uma estação meteorológica para a utilização de dados reais, para implementar no site mantendo as informações coesas e precisas | 8 | RF07 | 3 |
+| 12 | Alta | Como ADMINISTRADOR, quero realizar a construção física de uma estação meteorológica para a utilização de dados reais, para implementar no site mantendo as informações coesas e precisas | 8 | RF09 | 3 |
 | 13 | Média | Como CLIENTE, quero uma interface e conteúdos que incentivem o interesse de alunos do ensino médio, aplicando conceitos meteorológicos em um contexto de aprendizado baseado em problemas, para fomentar a educação científica. | 8 | RNF02 | 3 |
 
 <br>
