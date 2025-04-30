@@ -78,14 +78,17 @@ https://github.com/user-attachments/assets/e50d1b53-2acf-4367-abac-8656e293e088
 | RF05 | O sistema deve receber dados de estações metereológicas, armazená-los e posteriormente realizar o processamento e sincronização entre os bancos de dados. |
 | RF06 | O sistema deve conter uma seção de análise de dados (Dashboard), contendo estatísticas sobre as métricas realizadas em cada estação, quantidade de alertas, dentre outros dados relevantes. |
 | RF07 | A cada métrica adicionada ao banco de dados seus valores devem ser comparados por meio do parâmetro correspondente, verificando se essa aferição representa um alerta de risco e criando uma notificação com detalhes mais especificos sobre o tipo e nível de perigo do alerta. |
+| RF08 | O sistema deve conter um Datalogger, permitindo o registro em tempo real das aferições climáticas no sistema, provendo dados para análises históricas. |
+| RF09 | Deve-se montar uma estação metereológica com os componentes eletrônicos necessários, permitindo realizar aferições. |
+| RF10 | O sistema deve conter informações educativas acerca de cada parâmetro metereológico presente. |
 
 | Id | Requisitos não Funcionais |
 | --- | --- |
-| RNF01 | Experiência do Usuário (UX)**: Design dos dashboards deve priorizar a usabilidade e a estética para melhor engajamento dos usuários. |
-| RNF02 | Engajamento Estudantil**: Fomentar o interesse dos alunos do ensino médio pelo estudo através da aplicação prática de conceitos em um contexto de aprendizado baseado em problemas. |
-| RNF03 | Documentação de APIs**: Elaboração detalhada da documentação para todas as rotas da API, incluindo exemplos de uso. |
-| RNF04 | Pipeline de Integração Contínua (IC)**: Implementação de um pipeline de IC para automação de testes e validações de código. |
-| RNF05 | Deploy Automático**: Configuração de processos automáticos de deploy para garantir atualizações consistentes do sistema. |
+| RNF01 | As interfaces do sistema devem seguir as melhores práticas de UX (Experiência do usuário), tornando melhor a visualização de conteúdo e a retenção de usuários.  |
+| RNF02 | O sistema deve trazer temas educativos de maneira intuitiva e atrativa para alunos do ensino médio, utilizando o aprendizado baseado em problemas e de maneira prática. |
+| RNF03 | A documentação do produto deve conter informações sobre todas as rotas presentes no serviço, incluindo exemplos de uso e informações adicionais que podem ser pertinentes. |
+| RNF04 | O ambiente de desenvolvimento deve conter uma pipeline voltada para IC (Integração contínua) que possuí a execução de testes e validação de código. |
+| RNF05 | O sistema deve conter a configuração de processos automatizados de deploy, permitindo que as atualizações do sistema sejam entregues para o ambiente final após serem verificadas e aprovadas. |
 
 
 <h2> 📒 Product Backlog </h2><a name="productbacklog"></a>
