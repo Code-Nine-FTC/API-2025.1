@@ -4,8 +4,11 @@
 <p>Desenvolvido por alunos do 4º semestre de Desenvolvimento de Software Multiplataforma para o API, este projeto visa a coleta e processamento de dados de Estações Meteorológicas. O sistema permite inserção e busca de dados, além da exibição de estatísticas em gráficos interativos.
 A iniciativa atende à demanda da Tecsus para o monitoramento ambiental, utilizando sensores de baixo custo para medir vento, chuva, umidade, temperatura e pressão. Os dados são transmitidos para um servidor e exibidos em um portal com dashboards e relatórios, promovendo também a aprendizagem baseada em problemas. </p>
 
+
+
 <h2> 🗂️ Índice </h2>
 
+- [Acesse a documentação!](https://github.com/Code-Nine-FTC/API-2025.1/wiki)
 - [Metodologia Utilizada](#metodologias)
 - [Tecnologias Utilizadas](#tecnologias)
 - [MVP](#mvp)
@@ -44,7 +47,7 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 
 <h3> 📑 Documentação <h3>
 
-[Acesse a documentação!](https://github.com/Code-Nine-FTC/API-2025.1/wiki)
+
 
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
