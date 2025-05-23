@@ -13,6 +13,7 @@ A iniciativa atende à demanda da Tecsus para o monitoramento ambiental, utiliza
 - [Product Backlog](#productbacklog)
 - [Integrantes do grupo](#integrantes)
 
+
 <br>
 
 <h2> 📋 Metodologia Utilizada </h2><a name="metodologias"></a>
@@ -35,7 +36,8 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
   <a href="https://www.python.org"> <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white&color=00046D"/>
   <a href="https://fastapi.tiangolo.com"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&color=00046D""></a>
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=00046D"/>
-  <a href= "https://slack.com/intl/pt-br"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=00046D"/>
+  <a href="https://www.mongodb.com/?msockid=29391b7054546e2826eb0e9b55826fcc"><img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white&color=00046D"/></a>
+  <a href="https://aws.amazon.com/pt/"><img src="https://img.shields.io/badge/AWS-4169e1?style=for-the-badge&logo=amazon-web-services&logoColor=white&color=00046D"/></a>
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white&color=00046D"/>
   <a href="https://mui.com/material-ui"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=00046D">
 <br>
