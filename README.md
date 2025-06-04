@@ -47,6 +47,9 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 
 <h3> 📑 Documentação <h3>
 
+Manual do usuário: 
+[Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Modelo_Manual_Usuario.docx)
+
 
 
 <h1> 🏆 MVP </h1><a name="mvp"></a>
