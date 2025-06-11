@@ -45,12 +45,14 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
   <a href="https://mui.com/material-ui"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&color=00046D">
 <br>
 
-<h3> 📑 Documentação <h3>
+<h3> 📑 Documentação do Produto<h3>
 
 Manual do usuário: 
-[Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Modelo_Manual_Usuario.docx)
+[Acesse aqui!]([https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Modelo_Manual_Usuario.docx](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Manual_Usuario_Estacoes_Meteorologicas_Atualizado.docx))
 
+<h3> 📑 Documenteação  técnica</h3>
 
+[Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/wiki/DevOps)
 
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
