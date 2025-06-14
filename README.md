@@ -47,15 +47,15 @@ Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em Sprint
 
 <h3> 📑 Documentação do Produto<h3>
 
-Manual do usuário: [Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Manual_Usuario_Estacoes_Meteorologicas_Atualizado.pdf)
+[Acesse aqui](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Requisitos_Sistema.pdf)
 
 <h3> 📑 Documenteação do Processo</h3>
 
 [Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/wiki)
 
-<h3> 📑 Requisitos do sistema</h3>
+<h3> 📑 Manual do Usuário</h3>
 
-[Acesse aqui](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Requisitos_Sistema.pdf)
+[Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Manual_Usuario_Estacoes_Meteorologicas_Atualizado.pdf)
 
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
