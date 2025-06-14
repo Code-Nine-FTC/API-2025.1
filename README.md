@@ -52,7 +52,10 @@ Manual do usuário: [Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/b
 <h3> 📑 Documenteação do Processo</h3>
 
 [Acesse aqui!](https://github.com/Code-Nine-FTC/API-2025.1/wiki)
-Requisitos do sistema: [Acesse aqui](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Requisitos_Sistema.pdf)
+
+<h3> 📑 Requisitos do sistema</h3>
+
+[Acesse aqui](https://github.com/Code-Nine-FTC/API-2025.1/blob/main/docs/Requisitos_Sistema.pdf)
 
 <h1> 🏆 MVP </h1><a name="mvp"></a>
 
